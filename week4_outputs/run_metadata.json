@@ -1,0 +1,36 @@
+{
+  "dataset_url": "https://www.kaggle.com/datasets/wordsforthewise/lending-club",
+  "dataset_version": 3,
+  "source_filename": "accepted_2007_to_2018q4.csv/accepted_2007_to_2018Q4.csv",
+  "seed": 42,
+  "sample_requested": 50000,
+  "sample_actual": 50000,
+  "chunk_size": 25000,
+  "rows_scanned": 2260701,
+  "eligible_completed_loans": 1345310,
+  "source_status_counts": {
+    "Charged Off": 268559,
+    "Fully Paid": 1076751
+  },
+  "predictors": [
+    "loan_amnt",
+    "annual_inc",
+    "dti",
+    "fico_range_low",
+    "open_acc",
+    "pub_rec",
+    "revol_bal",
+    "revol_util",
+    "total_acc",
+    "delinq_2yrs",
+    "inq_last_6mths",
+    "term",
+    "home_ownership",
+    "purpose",
+    "emp_length"
+  ],
+  "python": "3.14.2",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1"
+}

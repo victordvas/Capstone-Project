@@ -1,0 +1,4 @@
+Split,Loans,Fully Paid,Charged Off,Sample share (%),Charged-off share (%)
+Training,30000,24028,5972,60.0,19.906666666666666
+Validation,10000,8010,1990,20.0,19.900000000000002
+Test,10000,8010,1990,20.0,19.900000000000002

@@ -1,0 +1,3 @@
+## 1 Open the notebook and configure the environment
+Open this file in VS Code or Jupyter and select your Python kernel. Run cells in order with **Shift+Enter**. Use your course environment if it already has these packages. If imports fail, uncomment the installation cell, run it once, and restart the kernel. The code uses scikit-learn 1.2 or later and its default L2 logistic-regression penalty.
+
