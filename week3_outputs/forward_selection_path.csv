@@ -1,0 +1,16 @@
+Features,Feature count,CV RMSE,Fold SD,CV training RMSE
+"('fico_range_low',)",1,4.407756895053361,0.061961152750144716,4.407927278248676
+"('fico_range_low', 'term')",2,3.998690403420253,0.0551829031258299,3.998685160109516
+"('fico_range_low', 'term', 'purpose')",3,3.897614445661614,0.04005478515500915,3.895557442955758
+"('fico_range_low', 'inq_last_6mths', 'term', 'purpose')",4,3.8336459419468314,0.0401330223905845,3.8314840516022857
+"('dti', 'fico_range_low', 'inq_last_6mths', 'term', 'purpose')",5,3.8051131393857274,0.0365881429615036,3.8002418164399416
+"('dti', 'fico_range_low', 'total_acc', 'inq_last_6mths', 'term', 'purpose')",6,3.7721987329799282,0.035995197174102676,3.7665177503190357
+"('dti', 'fico_range_low', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'purpose')",7,3.7577060049674627,0.03652039945482207,3.7522962657690884
+"('dti', 'fico_range_low', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",8,3.7440781585594003,0.03990103649935881,3.738421485509062
+"('dti', 'fico_range_low', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",9,3.736883511281423,0.039889348980457214,3.7307535653389152
+"('loan_amnt', 'dti', 'fico_range_low', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",10,3.7314775585613447,0.03916570073691937,3.7251061606075195
+"('loan_amnt', 'annual_inc', 'dti', 'fico_range_low', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",11,3.7277484890039263,0.03812963808037057,3.7213818243555594
+"('loan_amnt', 'annual_inc', 'dti', 'fico_range_low', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",12,3.7256752340004686,0.03840088292484456,3.719270184547098
+"('loan_amnt', 'annual_inc', 'dti', 'fico_range_low', 'open_acc', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose')",13,3.723774607239497,0.03786506659011323,3.7173053176584085
+"('loan_amnt', 'annual_inc', 'dti', 'fico_range_low', 'open_acc', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 'inq_last_6mths', 'term', 'home_ownership', 'purpose', 'emp_length')",14,3.7217881178589636,0.039122904809836496,3.7142035865992815
+"('loan_amnt', 'annual_inc', 'dti', 'fico_range_low', 'open_acc', 'pub_rec', 'revol_bal', 'revol_util', 'total_acc', 'delinq_2yrs', 'inq_last_6mths', 'term', 'home_ownership', 'purpose', 'emp_length')",15,3.7220558436227007,0.038985549823353054,3.714131583880031

@@ -1,0 +1,3 @@
+Method,Feature count,CV RMSE,Selected features
+Forward,9,3.736883511281423,"dti, fico_range_low, revol_bal, revol_util, total_acc, inq_last_6mths, term, home_ownership, purpose"
+Backward,9,3.736883511281423,"dti, fico_range_low, revol_bal, revol_util, total_acc, inq_last_6mths, term, home_ownership, purpose"

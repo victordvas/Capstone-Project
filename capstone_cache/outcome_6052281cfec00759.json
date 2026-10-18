@@ -1,0 +1,13 @@
+{
+  "resolved_path": "/home/codespace/.cache/kagglehub/datasets/wordsforthewise/lending-club/versions/3/accepted_2007_to_2018Q4.csv.gz",
+  "bytes": 392582231,
+  "mtime_ns": 1790567344585867739,
+  "cohort": "outcome",
+  "seed": 42,
+  "sample_size": 50000,
+  "chunk_size": 25000,
+  "algorithm": "priority-v1",
+  "rows_scanned": 2260701,
+  "eligible_rows": 1345310,
+  "sample_rows": 50000
+}

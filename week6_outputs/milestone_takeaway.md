@@ -1,0 +1,7 @@
+## Week 6 findings
+
+Training CV selected **Random forest** from the two tuned tree-family models. Its test ROC-AUC was **0.688**, compared with **0.700** for the matched logistic benchmark. At the validation-selected threshold of 0.203, its recall was **62.9%**, precision was **30.0%**, and F1 was **0.406**. It caught 1,251 charged-off loans, missed 739, and flagged 2,920 fully paid loans.
+
+The unrestricted tree's mean training AUC was 1.000, versus 0.549 in CV. That gap matters more than a near-perfect training score. Depth, minimum leaf size, and minimum split size keep the tree from relying on very small groups of loans. The three largest validation permutation scores for the forest belonged to term, fico_range_low, dti. I would check their score sizes and repeat variation before calling them important, and I would not interpret them as causes of default.
+
+For the capstone, I will compare these models with Week 5 only after checking that the source-row manifests match. I still need a later-vintage evaluation, a review-capacity or cost-based threshold, and a check of performance across relevant borrower groups. The current results support a classroom comparison and analyst review, not an automatic approval or denial rule.

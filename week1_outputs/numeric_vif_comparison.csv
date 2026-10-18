@@ -1,0 +1,35 @@
+Design,Term,VIF
+Raw powers,fico_range_low,1064.6593320551885
+Raw powers,dti,522.264527104513
+Raw powers,loan_amnt,443.28094147033585
+Raw powers,fico_range_low^2,1059.5889573484073
+Raw powers,fico_range_low dti,522.9883907279423
+Raw powers,fico_range_low loan_amnt,460.44123249015087
+Raw powers,dti^2,2.195509329092455
+Raw powers,dti loan_amnt,6.788177705043374
+Raw powers,loan_amnt^2,14.606773567773857
+Raw powers,annual_inc,1.1409148479714988
+Raw powers,open_acc,2.260352309659552
+Raw powers,pub_rec,1.0820085508922834
+Raw powers,revol_bal,1.3280159188525813
+Raw powers,revol_util,1.6453299151438758
+Raw powers,total_acc,2.156766183106326
+Raw powers,delinq_2yrs,1.0741511004731719
+Raw powers,inq_last_6mths,1.0533943642338097
+Centered powers,fico_range_low,2.386449261173552
+Centered powers,dti,2.217937749708554
+Centered powers,loan_amnt,1.6795858312599101
+Centered powers,fico_range_low^2,1.8273077621084681
+Centered powers,fico_range_low dti,1.0543773257912417
+Centered powers,fico_range_low loan_amnt,1.0598790613823736
+Centered powers,dti^2,2.0200171457302694
+Centered powers,dti loan_amnt,1.0442003169277847
+Centered powers,loan_amnt^2,1.5483464371336801
+Centered powers,annual_inc,1.1409148479714988
+Centered powers,open_acc,2.2603523096595524
+Centered powers,pub_rec,1.0820085508922836
+Centered powers,revol_bal,1.3280159188525813
+Centered powers,revol_util,1.6453299151438758
+Centered powers,total_acc,2.156766183106326
+Centered powers,delinq_2yrs,1.0741511004731716
+Centered powers,inq_last_6mths,1.0533943642338097

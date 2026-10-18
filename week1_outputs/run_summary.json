@@ -1,0 +1,16 @@
+{
+  "week": 1,
+  "dataset_version": 3,
+  "sample_rows": 50000,
+  "source_rows": 2260701,
+  "seed": 42,
+  "python": "3.14.2",
+  "pandas": "3.0.6",
+  "sklearn": "1.9.1",
+  "sample_source_rows_sha256": "d1825e59eb3cd049f07536db7fa5fcbce06fcf17487d4622eb5a2c82ccf0753e",
+  "target": "int_rate",
+  "selected_model": "Cubic",
+  "test_rmse": 3.749479909328794,
+  "test_mae": 2.806033077857853,
+  "test_r2": 0.4141544146641758
+}
