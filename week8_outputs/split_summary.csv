@@ -1,0 +1,5 @@
+Split,Loans,Charged off,Charged-off share
+Training pool,30000,5972,0.19906666666666667
+Model training / CV,8000,1593,0.199125
+Validation,10000,1990,0.199
+Test,10000,1990,0.199

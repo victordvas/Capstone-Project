@@ -1,0 +1,12 @@
+Feature,min,median,max
+loan_amnt,1000.0,12000.0,40000.0
+annual_inc,3120.0,65000.0,8400000.0
+dti,0.0,17.43,215.38
+fico_range_low,660.0,690.0,840.0
+open_acc,1.0,11.0,47.0
+pub_rec,0.0,0.0,61.0
+revol_bal,0.0,11038.0,1043860.0
+revol_util,0.0,52.6,132.2
+total_acc,2.0,23.0,101.0
+delinq_2yrs,0.0,0.0,16.0
+inq_last_6mths,0.0,0.0,6.0

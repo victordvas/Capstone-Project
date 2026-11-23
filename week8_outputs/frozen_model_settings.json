@@ -1,0 +1,15 @@
+{
+  "knn": {
+    "Scaling": "Standardized",
+    "Distance": "Manhattan",
+    "k": 61,
+    "Weights": "uniform"
+  },
+  "thresholds": {
+    "Selected KNN": 0.19672131147540983,
+    "Matched logistic": 0.1985248284464511,
+    "Majority baseline": 0.5
+  },
+  "selection_metric": "training-fold ROC-AUC",
+  "threshold_metric": "validation F1"
+}
