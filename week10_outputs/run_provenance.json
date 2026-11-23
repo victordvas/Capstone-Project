@@ -1,0 +1,31 @@
+{
+  "data_url": "https://www.kaggle.com/datasets/wordsforthewise/lending-club",
+  "source_used": "/workspaces/Capstone-Project/capstone_cache/outcome_6052281cfec00759.csv.gz",
+  "source_metadata": {
+    "resolved_path": "/home/codespace/.cache/kagglehub/datasets/wordsforthewise/lending-club/versions/3/accepted_2007_to_2018Q4.csv.gz",
+    "bytes": 392582231,
+    "mtime_ns": 1790567344585867739,
+    "cohort": "outcome",
+    "seed": 42,
+    "sample_size": 50000,
+    "chunk_size": 25000,
+    "algorithm": "priority-v1",
+    "rows_scanned": 2260701,
+    "eligible_rows": 1345310,
+    "sample_rows": 50000
+  },
+  "seed": 42,
+  "analysis_rows": 10000,
+  "features": [
+    "loan_amnt",
+    "annual_inc",
+    "dti",
+    "fico_range_low",
+    "revol_util",
+    "revol_bal"
+  ],
+  "fit_source_rows_sha256": "5f272208eb3e9d3ddf6adc4672705c451df1fbe83c2ab786df574ca727250562",
+  "python": "3.14.2",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.6"
+}

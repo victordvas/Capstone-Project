@@ -1,0 +1,3 @@
+Data,Loans,Silhouette rows,Mean squared distance,Silhouette,Clusters represented
+Fitting,8000,1000,4.8233347097555965,0.21894941617387295,2
+Reserved check,2000,1000,5.848285719847336,0.22858603745572495,2

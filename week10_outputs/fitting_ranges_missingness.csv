@@ -1,0 +1,7 @@
+Feature,min,median,max,Missing (%),Invalid values marked missing
+loan_amnt,1000.0,12000.0,40000.0,0.0,0
+annual_inc,0.0,65000.0,1320000.0,0.0,0
+dti,0.0,17.395,178.31,0.025,0
+fico_range_low,660.0,690.0,840.0,0.0,0
+revol_util,0.0,52.0,154.9,0.0375,0
+revol_bal,0.0,11088.5,1696796.0,0.0,0

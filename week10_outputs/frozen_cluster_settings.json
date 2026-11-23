@@ -1,0 +1,16 @@
+{
+  "features": [
+    "loan_amnt",
+    "annual_inc",
+    "dti",
+    "fico_range_low",
+    "revol_util",
+    "revol_bal"
+  ],
+  "method": "Log dollars + standardization",
+  "k": 2,
+  "seed": 42,
+  "n_init": 20,
+  "max_iter": 500,
+  "selection": "fitting-subset silhouette"
+}

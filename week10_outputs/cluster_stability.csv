@@ -1,0 +1,7 @@
+Check,Seed,Fitting loans,Reserved ARI
+Different seed; same fitting loans,7,8000,0.9879940232177915
+80% fitting sample; preprocessing refitted,7,6400,0.8925259506119367
+Different seed; same fitting loans,21,8000,0.9899897427512587
+80% fitting sample; preprocessing refitted,21,6400,0.9485189385684991
+Different seed; same fitting loans,99,8000,0.9348169334124741
+80% fitting sample; preprocessing refitted,99,6400,0.9820157827416677
