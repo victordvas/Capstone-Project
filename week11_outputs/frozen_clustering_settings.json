@@ -1,0 +1,20 @@
+{
+  "features": [
+    "loan_amnt",
+    "annual_inc",
+    "dti",
+    "fico_range_low",
+    "revol_util",
+    "revol_bal"
+  ],
+  "dbscan_eps": 1.1662278393584495,
+  "dbscan_min_samples": 12,
+  "dbscan_passed_screens": false,
+  "hac_linkage": "ward",
+  "hac_k": 2,
+  "hac_passed_screens": true,
+  "selection_used_outcomes": false,
+  "seed": 42,
+  "analysis_rows": 2500,
+  "silhouette_pool": 800
+}

@@ -1,0 +1,4 @@
+Seed,Retained loans,HAC ARI,DBSCAN noise-status agreement,DBSCAN jointly assigned loans,DBSCAN ARI on jointly assigned loans,DBSCAN new noise share,DBSCAN new cluster count
+7,2000,0.3043953225674734,0.988,1811,,0.0935,1
+21,2000,0.37826658700884525,0.969,1756,,0.122,1
+99,2000,0.49722092298434395,0.9625,1753,,0.1235,1

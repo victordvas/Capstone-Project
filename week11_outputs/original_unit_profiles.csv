@@ -1,0 +1,5 @@
+Group,Method,Group name,Loans,loan_amnt,annual_inc,dti,fico_range_low,revol_util,revol_bal
+-1,DBSCAN,Noise,217,6125.0,55000.0,12.96,720.0,16.45,2500.0
+0,DBSCAN,Cluster 1,2283,13000.0,65000.0,18.44,685.0,54.2,11570.0
+0,HAC,Cluster 1,868,7200.0,45000.0,16.93,695.0,32.3,5461.0
+1,HAC,Cluster 2,1632,16000.0,77945.5,18.505,685.0,61.6,15644.5

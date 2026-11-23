@@ -1,0 +1,4 @@
+Methods,Loans compared,ARI
+DBSCAN / HAC,2283,
+DBSCAN / K-means reference,2283,
+HAC / K-means reference,2500,0.6174021190366576
